@@ -6,6 +6,8 @@
   width: 5rem;
 }
 
-/* .zin {
-  z-index: 1;
-} */
+.gt {
+  background-image: linear-gradient(40deg, rgb(0, 170, 255), #4cac3e);
+  background-clip: text;
+  color: transparent;
+}
