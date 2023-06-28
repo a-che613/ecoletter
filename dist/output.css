@@ -667,7 +667,7 @@ video {
 
   .landing-container {
     position: absolute;
-    top: 25%;
+    top: 35%;
     left: 25%;
     background: rgba(128, 128, 128, 0.785);
     width: 50%;
@@ -676,7 +676,7 @@ video {
 
   .landing-text {
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
   }
 
